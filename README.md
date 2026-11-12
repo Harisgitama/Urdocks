@@ -19,11 +19,7 @@
 
 ## 📸 Preview Screenshot
 
-<!-- Ganti path gambar di bawah ini dengan screenshot Urdocks kamu -->
-<p align="center">
-  
 ![URdocks Desktop Preview](docs/Screenshot.png)
-</p>
 
 ---
 
