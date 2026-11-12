@@ -47,10 +47,10 @@
 
 Unduh paket installer `.deb` resmi melalui halaman GitHub Releases:
 
-👉 **[Download Urdocks Release v3.0.1 (.deb)](https://github.com/Harisgitama/Urdocks/releases/tag/v3.0.1)**
+👉 **[Download Urdocks Release v3.1.0 (.deb)](https://github.com/Harisgitama/Urdocks/releases/tag/v3.1.0)**
 
 Atau unduh dan instal langsung lewat terminal:
 
 ```bash
-wget https://github.com/Harisgitama/Urdocks/releases/download/v3.0.1/urdocks_v3.1.0.deb
+wget https://github.com/Harisgitama/Urdocks/releases/download/v3.1.0/urdocks_v3.1.0.deb
 sudo dpkg -i urdocks_v3.1.0.deb || sudo apt-get install -f -y
