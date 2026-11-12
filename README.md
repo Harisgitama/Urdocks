@@ -19,7 +19,7 @@
 
 ## 📸 Preview Screenshot
 
-![URdocks Desktop Preview](docs/Screenshot.png)
+![URdocks Desktop Preview](docs/images/ss.png)
 
 ---
 
