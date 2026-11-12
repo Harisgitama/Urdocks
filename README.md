@@ -21,7 +21,8 @@
 
 <!-- Ganti path gambar di bawah ini dengan screenshot Urdocks kamu -->
 <p align="center">
-  <img src="docs/screenshot.png" alt="Urdocks Liquid Glass Desktop Screenshot" width="900" />
+  
+![URdocks Desktop Preview](docs/Screenshot.png)
 </p>
 
 ---
